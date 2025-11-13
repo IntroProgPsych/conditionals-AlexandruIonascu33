@@ -20,3 +20,11 @@
 # The numbers are equal!
 
 # Write your code here:
+n1=int(input("Type in your first number "))
+n2=int(input("Insert your second number "))
+if n1>n2:
+    print(n1,"is bigger than",n2)
+elif n1<n2:
+    print(n1,"is lesser than",n2)
+elif n1==n2:
+    print("Both numbers are equal")

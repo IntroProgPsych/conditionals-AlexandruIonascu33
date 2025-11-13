@@ -9,3 +9,7 @@
 # Orwell
 
 # Write your code here:
+
+n=int(input("Enter a number: "))
+if n==1984:
+    print("Orwell")

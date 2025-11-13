@@ -25,4 +25,10 @@
 # Thank you!
 
 # Write your code here:
-
+n=abs(int(input("Enter your number here: ")))
+if n<10:
+    print("Your number is smaller than 10")
+elif n<100:
+    print("Your number is smaller than 100")
+elif n<1000:
+    print("Your number is smaller than 1000")

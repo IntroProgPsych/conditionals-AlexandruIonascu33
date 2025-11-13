@@ -13,3 +13,9 @@
 # You are of age!
 
 # Write your code here:
+
+a=int(input("Tell me your age: "))
+if a<18:
+    print("You are underage ")
+else:
+    print("You are of age")

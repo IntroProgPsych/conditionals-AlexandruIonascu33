@@ -16,4 +16,8 @@
 # The absolute value of this number is 99
 
 # Write your code here:
+n=int(input("Type your number here: "))
+if n<0:
+    n=n*-1
 
+print(n)
