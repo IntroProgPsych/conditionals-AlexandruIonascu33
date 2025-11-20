@@ -7,3 +7,5 @@
 # 70-79: C
 # 60-69: D
 # Below 60: F
+
+# Sample output
