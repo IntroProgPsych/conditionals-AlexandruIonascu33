@@ -1,6 +1,6 @@
 # if = does some code only if a condition is true
 #  else does nothing
-
+print("")
 age = int(input("Type your age:"))
 
 if age>=18 and age<100:
