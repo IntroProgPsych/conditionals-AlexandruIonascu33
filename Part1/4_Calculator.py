@@ -29,4 +29,12 @@
 # 4 - 6 = -2
 
 # Write your code here:
-
+n=int(input("Enter a number: "))
+cmd=input("enter a command (multiply,substract or add)" )
+n1=int(input("Enter a number: "))
+if cmd=="multiply":
+    print(n*n1)
+elif cmd=="substract":
+    print(n-n1)
+elif cmd=="add":
+    print(n+n1)

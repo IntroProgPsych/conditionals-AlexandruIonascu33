@@ -22,3 +22,5 @@
 # Bill and Jean are the same age
 
 # Write your code here:
+p1=int(input("Enter your age: "))
+p1=input("enter your name: ")
